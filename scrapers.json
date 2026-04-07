@@ -1,0 +1,4 @@
+[
+  {"name":"CDA","searchUrl":"https://cda.pl{q}","itemSelector":"div.elem-video","titleSelector":"a.link-title","linkSelector":"a.link-title"},
+  {"name":"Filman","searchUrl":"https://filman.cc{q}","itemSelector":"div.item","titleSelector":"h2","linkSelector":"a"}
+]
